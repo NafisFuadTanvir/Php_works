@@ -1,0 +1,95 @@
+#main{
+    display: flex;
+    
+    
+    padding: 90px;
+  
+   
+}
+.one{
+    padding: 100px;
+    background-color: blue;
+    margin-left: 9px;
+    height: 20px;
+}
+#div1{
+    background-color:orangered;
+    border: 4px darkorchid ;
+    border-radius:15px ;
+    color: black;
+
+}
+
+#lastSection{
+    display: flex;
+}
+#inner{
+    background-color: blueviolet;
+    padding: 40px;
+    margin: 20px;
+    border: 7px solid red;
+    border-radius: 16px;
+}
+#secOne{
+    background-color: black;
+    height: 760px;
+    border: 10px dashed red;
+    border-radius: 17px;
+    
+}
+h1{
+    color:white;
+    text-align: center;
+    font-size: 31px;
+}
+#btn1{
+    background-color:black;
+    color: black;
+    border: 3px dashed red;
+    border-radius: 10px;
+    padding: 5px;
+    color: white;
+    margin: 5px;
+    font-size: 19px;
+}
+#text{
+    color: white;
+    font-size: 20px;
+}
+.last{
+    background-color:black;
+    color: black;
+    border: 3px dashed red;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    margin: 5px;
+    font-size: 19px;
+
+}
+h4{
+    font-size: 22px;
+    color: white;
+}
+h2{
+    color: white;
+    font-size: 28px;
+}
+#kmon{
+   
+    padding-left: 40px;
+    margin: 100px;
+}
+.last1{
+    background-color:crimson;
+    color: black;
+    border: 3px dashed red;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    margin: 5px;
+    font-size: 19px;
+
+}
+
+

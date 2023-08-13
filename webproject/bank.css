@@ -1,0 +1,92 @@
+body{
+
+   background-image: url(bankbackground.jpg);
+   background-repeat: no-repeat;
+   background-size: cover; 
+   height: 500px;
+}
+
+#div1{
+    
+    height: 400px;
+    margin: 50px;
+    padding: 120px;
+    
+    border-radius: 17px;
+   
+ 
+}
+#div2{
+    background-color:#00d8d6;
+    margin: 50px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 27px;
+    box-shadow: darkolivegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+#head{
+    color: #273c75;
+    text-align: center;
+    font-family: red,sans-serif;
+}
+#head1{
+    text-align: center;
+    color: #44bd32;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-right: 10px;
+}
+#userInput{
+    padding: 10px;
+    margin: 10px;
+}
+#userPassword{
+    margin: 10px;
+    padding: 10px;
+}
+#submit{
+  color:white;
+    border: 2px solid yellow;
+    border-radius: 7px;
+    background-color: blue;
+    padding: 15px;
+    margin: 10px;
+   
+}
+#logOut1{
+    color:white;
+    border: 2px solid yellow;
+    border-radius: 7px;
+    background-color: blue;
+    padding: 15px;
+    margin: 10px;
+
+}
+#submit {
+    transition-duration: 0.8s;
+  
+  }
+  
+  #submit:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  #logOut1 {
+    transition-duration: 0.8s;
+  }
+  
+  #logOut1:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  #amar{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#2980b9;
+  }
+
+ 
+ 
